@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Mattia
-- 👀 I’m an high school It student from Italy
-- 🌱 I know php, mysql, python and java and i'm learning symfony php
+- 👀 I’m a Computer Engineering student from Italy
+- 🌱 I know Symfony php, mysql, python and java
 - 📫 How to reach me petullomattia@gmail.com
 <!---
 TiaWRLD/TiaWRLD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
